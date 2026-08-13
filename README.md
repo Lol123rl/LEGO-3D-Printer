@@ -25,3 +25,17 @@ The motors move the printer mechanism in different directions so filament can be
 ## Bill of Materials
 
 A complete parts and cost list is available in [`BOM.csv`](BOM.csv).
+
+## Project Photos
+
+### Finished LEGO 3D Printer
+
+![Finished LEGO 3D Printer](Screenshot%202026-08-12%20120936.png)
+
+### Front View
+
+![LEGO 3D Printer Front View](8302.jpg)
+
+### Printing Test
+
+![LEGO 3D Printer Printing Test](6268.jpg)
