@@ -6,6 +6,31 @@ A working 3D printer built mostly from parts from two LEGO Education SPIKE Prime
 
 The printer uses LEGO motors to move the printing mechanism and a 3D printing pen to melt and place filament.
 
+## Software
+
+The printer is controlled by Python code for the LEGO Education SPIKE Prime Hub.
+
+The full program is available here:
+
+[`printer.py`](printer.py)
+
+### Port Setup
+
+- Ports A + B = Z axis
+- Port C = X axis
+- Port D = Force Sensor
+- Ports E + F = Y axis
+
+### How to Run
+
+1. Connect all motors and the Force Sensor to the correct SPIKE Prime ports.
+2. Open `printer.py` in the LEGO SPIKE Prime Python environment.
+3. Transfer the program to the Hub.
+4. Run the program.
+5. The printer performs its setup routine.
+6. Press the Force Sensor when prompted.
+7. The printer begins printing the 662 logo.
+
 ## Main Hardware
 
 - 2 LEGO Education SPIKE Prime kits
